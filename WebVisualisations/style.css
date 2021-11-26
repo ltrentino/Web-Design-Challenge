@@ -6,18 +6,38 @@
     }
   
   .skyblue {
-    background: rgb(38, 144, 179);
+    background: rgb(115, 192, 218);
   }
   
   .purple {
-    background: rgb(148, 110, 186);
+    background: rgb(184, 142, 226);
   }
   
   .red {
-    background: indianred;
+    background: rgb(228, 127, 127);
   }
 
   .gold {
-      background: rgb(185, 144, 38)
+      background: rgb(223, 190, 108)
   }
-  
+
+
+  img.resize {
+    max-width:50%;
+    max-height:50%;
+  }
+
+
+  .grey{
+      background: rgb(243, 243, 243);
+  }
+  .white{
+    background: rgb(255, 255, 255);
+}
+
+/* 
+  @media (max-width: 600px) {
+
+  } */
+
+
