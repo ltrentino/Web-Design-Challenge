@@ -1,5 +1,5 @@
 # UWA DATA ANALYSIS COURSE
-# Web Design Homework - Web Visualisation Dashboard (Latitude)
+# Web Design Homework - Web Visualisation Dashboard
 
 ## Background
 
